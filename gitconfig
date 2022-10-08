@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = giselle.rivard@gmail.com
+	name = Giselle Rivard
